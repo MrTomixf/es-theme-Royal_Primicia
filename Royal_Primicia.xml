@@ -9,8 +9,6 @@ Any question?, Contact me      https://www.facebook.com/profile.php?id=100009167
 Based on Flat theme, made by Lilbud
 
 Hope you enjoy!!
-
-Thanks to garaine for helping me uploading the theme
 -->
 
 <theme>
@@ -326,10 +324,10 @@ Thanks to garaine for helping me uploading the theme
   <view name="system">
 
     <carousel name="systemcarousel">
-	<color>d2d2d2</color>
+	<color>a8a8a8</color>
       <type>vertical</type>
 	  <pos>0 0</pos>
-      <size>.3 1</size>
+      <size>0.3 1</size>
       <logoScale>2</logoScale>
       <logoSize>0.125 0.155</logoSize>
       <maxLogoCount>5</maxLogoCount>
