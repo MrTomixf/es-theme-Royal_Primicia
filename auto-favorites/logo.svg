@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="375.000000pt"
+   height="57.000000pt"
+   viewBox="0 0 375.000000 57.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg4531"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata4537">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4535" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="988"
+     id="namedview4533"
+     showgrid="false"
+     inkscape:zoom="0.698"
+     inkscape:cx="250"
+     inkscape:cy="38"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4531" />
+  <g
+     transform="translate(0.000000,57.000000) scale(0.100000,-0.100000)"
+     fill="#000000"
+     stroke="none"
+     id="g4529"
+     style="fill:#ffffff">
+    <path
+       d="M20 250 l0 -190 90 0 90 0 0 80 0 80 95 0 95 0 0 45 0 45 -95 0 c-95 0 -95 0 -95 25 0 25 0 25 95 25 l95 0 0 40 0 40 -185 0 -185 0 0 -190z"
+       id="path4511"
+       style="fill:#ffffff" />
+    <path
+       d="M552 413 c-27 -66 -122 -336 -122 -344 0 -5 23 -9 51 -9 42 0 52 3 56 20 5 17 14 20 68 20 55 0 65 -3 70 -20 6 -18 15 -20 95 -20 l90 0 -44 122 c-24 68 -55 152 -68 188 l-23 65 -81 3 c-81 3 -81 3 -92 -25z m78 -214 c0 -5 -11 -9 -25 -9 -28 0 -29 4 -14 50 l12 32 13 -32 c8 -18 14 -36 14 -41z"
+       id="path4513"
+       style="fill:#ffffff" />
+    <path
+       d="M890 433 c0 -3 30 -89 66 -190 l67 -184 80 3 80 3 33 90 c17 50 48 134 68 188 l35 97 -53 0 -53 0 -33 -92 c-18 -51 -35 -96 -39 -100 -3 -4 -22 38 -41 92 l-34 100 -88 0 c-48 0 -88 -3 -88 -7z"
+       id="path4515"
+       style="fill:#ffffff" />
+    <path
+       d="M1360 413 c-20 -26 -21 -37 -18 -171 4 -190 -6 -182 208 -182 144 0 160 2 184 21 l26 20 0 150 c0 200 13 189 -209 189 l-170 0 -21 -27z m208 -61 c9 -6 12 -34 10 -103 -3 -93 -3 -94 -28 -94 -25 0 -25 2 -28 88 -3 102 9 132 46 109z"
+       id="path4517"
+       style="fill:#ffffff" />
+    <path
+       d="M1780 250 l0 -190 90 0 90 0 0 75 c0 65 2 75 18 75 31 0 39 -14 48 -80 l9 -65 91 -3 91 -3 -10 53 c-5 29 -14 65 -21 79 -11 21 -11 29 0 44 9 12 14 46 14 92 0 114 2 113 -230 113 l-190 0 0 -190z m224 104 c9 -3 16 -16 16 -29 0 -22 -17 -35 -46 -35 -9 0 -14 11 -14 35 0 36 10 42 44 29z"
+       id="path4519"
+       style="fill:#ffffff" />
+    <path
+       d="M2250 250 l0 -190 90 0 90 0 0 190 0 190 -90 0 -90 0 0 -190z"
+       id="path4521"
+       style="fill:#ffffff" />
+    <path
+       d="M2460 400 l0 -40 50 0 50 0 0 -150 0 -150 90 0 90 0 0 150 0 150 45 0 45 0 0 40 0 40 -185 0 -185 0 0 -40z"
+       id="path4523"
+       style="fill:#ffffff" />
+    <path
+       d="M2860 250 l0 -190 185 0 185 0 0 45 0 45 -95 0 -95 0 0 35 0 35 95 0 95 0 0 45 0 45 -95 0 c-95 0 -95 0 -95 25 0 25 0 25 95 25 l95 0 0 40 0 40 -185 0 -185 0 0 -190z"
+       id="path4525"
+       style="fill:#ffffff" />
+    <path
+       d="M3281 414 c-28 -35 -29 -126 -3 -152 10 -10 61 -27 120 -41 94 -21 103 -24 100 -44 -4 -31 -47 -36 -55 -8 -5 19 -13 21 -95 21 l-91 0 6 -47 c8 -78 21 -83 207 -83 144 0 160 2 184 21 24 18 26 27 26 89 0 42 -5 71 -12 78 -7 5 -60 20 -117 33 -106 23 -127 37 -98 66 20 20 47 10 47 -17 0 -19 6 -20 90 -20 l90 0 0 45 c0 32 -6 51 -20 65 -18 18 -33 20 -189 20 l-170 0 -20 -26z"
+       id="path4527"
+       style="fill:#ffffff" />
+  </g>
+</svg>
