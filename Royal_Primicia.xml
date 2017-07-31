@@ -19,7 +19,7 @@ Hope you enjoy!!
 	<view name="system">
 
 		<image name="background" extra="true">
-			<tile>false</tile>
+			<tile>true</tile>
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
@@ -43,6 +43,15 @@ Hope you enjoy!!
 			<size>0.12 0.04</size>
 			<pos>1 1</pos>
 		</text>
+		
+		<image name="background" extra="true">
+			<tile>true</tile>
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./Archivos/Fondo.png</path>
+		</image>
+
 
 		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_description">
 			<color>393a3b</color>
