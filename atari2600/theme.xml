@@ -3,6 +3,10 @@
     <include>./../Royal_Primicia.xml</include>
 
 	<view name="system">
+	
+	    <image name="background" extra="true">
+			<color>d2d2d2</color>
+		</image>
 
 		<image name="logo">
 			<path>./system.svg</path>
