@@ -1,0 +1,38 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../Royal_Primicia.xml</include>
+
+	<view name="system">
+	
+	    <image name="background" extra="true">
+			<color>d2d2d2</color>
+		</image>
+
+		<image name="logo">
+			<path>./system.svg</path>
+		</image>
+
+	</view>
+
+	<view name="basic, detailed, grid">
+	
+		<image name="logo">
+			<path>./logo.svg</path>
+			<color>d2d2d2</color>
+		</image>
+		
+		<textlist name="gamelist">
+			<selectorColor>d2d2d2</selectorColor>
+		</textlist>
+
+    </view>
+
+	<view name="grid">
+
+		<image name="logo">
+			<path>./logo.svg</path>
+		</image>
+		
+    </view>
+
+</theme>
