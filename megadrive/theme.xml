@@ -18,7 +18,7 @@
 	
 		<image name="logo">
 			<path>./logo.svg</path>
-			<color>000000</color>
+			<color>d2d2d2</color>
 		</image>
 		
 		<textlist name="gamelist">
